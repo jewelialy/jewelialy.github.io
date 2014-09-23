@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Resume</title>
+	<style>
+		ul.a {list-style-type: circle;}
+		h3 {text-decoration: underline;}
+		p.thick {font-weight: bold;}
+	</style>
+	</head>
+	<body>
+		<h2 style="text-align:center"> Julia Lee </h2>
+
+		<h3>Education</h3>
+		<p class="thick">Tufts University </p> 2012-present <br> Medford, MA 
+			<ul class="a">
+				<li>Major in Economics and Computer Science</li>
+				<li>Courses taken includes Economics, Politics, Computer Science, Math, and Chinese</li>
+			</ul>
+		<br>
+
+		<h3>Professional Experience</h3>
+		<p class="thick">Tanin Financial LLC </p> August 2014-present, Somerville
+			<ul class="a">
+				<li>Financial advisor assistant</li>
+				<li>Experience with customer-client interactions</li>
+			</ul>
+		<p class="thick">Tufts Technology Support Center </p> August 2013-present, Medford
+			<ul class="a">
+				<li>Paid on-campus job</li>
+				<li>Customer service representative for the Technology Support Center</li>
+			</ul>
+		<p class="thick">Simmons and Simmons </p> August 2013-September 2013, Hong Kong
+			<ul class="a">
+				<li>Summer internship at a law firm based in England</li>
+				<li>Worked with the Finance department on ongoing deals</li> 
+				<li>Helped proofread Prospectus, research on various companies and banking strategies</li>
+			</ul>
+		<p class="thick">Orrick, Herrington, and Sutcliffe </p> June 2013-July 2013, Hong Kong
+			<ul class="a">
+				<li>Summer internship at a law firm based in San Francisco</li>
+				<li>Worked with the Structured Finance department on ongoing deals</li>
+				<li>Learned how to interact with clients, advised clients about Hong Kong competition laws</li>
+			</ul>
+		<p class="thick">Chez Patrick French Restaurant </p> April 2012-June 2012, Hong Kong
+			<ul class="a">
+				<li>A high-end French deli restaurant catered towards the expat community</li>
+				<li>Paid job to wait tables</li>
+				<li>Gained experience with customer service</li>
+			</ul>
+		<p class="thick">Standard Chartered Bank </p> June 2011-July 2011, Hong Kong
+			<ul class="a">
+				<li>Worked with the Shipping Finance sector</li>
+				<li>Assisted a research project on the Panamax vessel market</li>
+				<li>Learned and used various business tools, such as credit ratings, Bloomberg, and Marsoft</li>
+			</ul>
+		<br>
+
+		<h3>Skills</h3>
+			<ul class="a">
+				<li>Language: Native English, proficient in Mandarin, elementary Korean</li>
+				<li>Solid background in all MS Office, Adobe Photoshop, and other media tools</li>
+				<li>Proficient in C++</li>
+			</ul>
+		<br>
+
+		<h3>Activities</h3>
+		<p class="thick">Collegiate Club Tennis Team </p> September 2012-present
+			<ul class="a">
+				<li>Represented Tufts University and achieved third place in the Sectionals tournament against other New England universities</li>
+			</ul>
+		<p class="thick">Kids to College Organization </p> September 2012-present
+			<ul class="a">
+				<li>Subgroup of the umbrella Leonard Carmichael Society, the main service organization on campus</li>
+				<li>Co-coordinator of a six-week program to educate local Medford students about the importance of college</li>
+			</ul>
+		<p class="thick">Hong Kong Student's Association</p>
+			2012 - 2013: Freshman Representative
+			<ul class="a">
+				<li>Coordinated campus-wide cultural activities that are associated with Hong Kong, such as a dim-sum exhibition, Casino Night, and Harbor Festival</li>
+			</ul>
+			2013-2014: Treasurer
+			<ul class="a">
+				<li>Managed the budget of HKSA</li>
+			</ul>
+			2014-present: External Social Chair
+			<ul class="a">
+				<li>Managed the external relationship among other groups on campus</li>
+				<li>United many other culture groups on campus, such as Korean Student Association and Japanese Culture Club</li>
+			</ul>
+	</body>
+
+
+</html>

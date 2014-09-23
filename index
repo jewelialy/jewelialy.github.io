@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Home</title>
+	</head>
+	<body>
+		<h2>Julia Lee</h2>
+		<img src="julia.jpg" alt="picture of me">
+		<p> Click here for my
+		<a href="http://jewelialy.github.io/resume.html"> resume. </a>
+		</p>
+		<p> Click here for my
+		<a href="http://jewelialy.github.io/biography.html">biography. </a>
+		</p>
+	</body>
+</html>
